@@ -26,14 +26,19 @@ How can your insights drive business decisions?
 Analyzing how these trends can help Bellabeat make better business strategies.
 
 Step 2: Prepare
-	The data source used for this case study is from [here](https://www.kaggle.com/datasets/arashnic/fitbit). This dataset is downloaded from Kaggle where it was uploaded by Möbius. 
-	There is 11 csv file on this dataset, however, I only use 4 csv file to finish this case study.
+
+The data source used for this case study is from [here](https://www.kaggle.com/datasets/arashnic/fitbit). This dataset is downloaded from Kaggle where it was uploaded by Möbius. 
+There is 11 csv file on this dataset, however, I only use 4 csv file to finish this case study.
 
 Steps 3: Process
+
 All R code can be found [here](https://github.com/ChrisSHIPINGCHEN/FitBit-Fitness-Track-Data/blob/main/Case_study02.R).
+
   1. load the tidyverse, lubridate, dplyr and janitor packages and import the data files
-  2. Check the data files and data type
-  3. Convert Character format to Date type
+     
+  3. Check the data files and data type
+     
+  5. Convert Character format to Date type
 
 ![image](https://github.com/ChrisSHIPINGCHEN/FitBit-Fitness-Track-Data/assets/163215140/0fa35b0d-6c0c-4735-9f9f-38550a2dc5a3)
 
