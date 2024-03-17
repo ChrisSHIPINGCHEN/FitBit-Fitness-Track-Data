@@ -16,9 +16,13 @@ Tools: R(RStudio)
 
 Step 1: Ask
 There are two questions has been asked.
-	What is the problem you are trying to solve?
+
+What is the problem you are trying to solve?
+
 Investigate some health smart device usage trends and understand how these trends affect Bellabeat consumers. 
-	How can your insights drive business decisions?
+
+How can your insights drive business decisions?
+
 Analyzing how these trends can help Bellabeat make better business strategies.
 
 Step 2: Prepare
